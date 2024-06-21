@@ -192,7 +192,7 @@ Response: Submission deleted successfully
 
 **Notes**
 
-The db.json file is used as a database to store submissions.
+The /backend/src/db.json file is used as a database to store submissions.
 
 Ensure the backend server is running before starting the frontend application.
 
