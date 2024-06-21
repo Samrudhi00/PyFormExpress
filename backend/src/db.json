@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "samrudhi shete",
+        "email": "shetesamrudhi509@gmail.com",
+        "phone": "9638527420",
+        "github_link": "https://github.com/Samrudhi00",
+        "stopwatch_time": "20"
+    },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567830",
+    "github_link": "https://github.com/johndoe",
+    "stopwatch_time": "20"
+  },
+    {
+        "id": 3,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "phone": "9876543210",
+        "github_link": "https://github.com/janesmith",
+        "stopwatch_time": "20"
+    },
+    {
+        "name": "Alice Johnson",
+        "email": "alicejohnson@example.com",
+        "phone": "4567890123",
+        "github_link": "https://github.com/alicejohnson",
+        "stopwatch_time": 25,
+        "id": 4
+    },
+    {
+        "name": "Bob Brown",
+        "email": "bobbrown@example.com",
+        "phone": "7890123456",
+        "github_link": "https://github.com/bobbrown",
+        "stopwatch_time": 16,
+        "id": 5
+    },
+    {
+        "name": "Sandy Warte",
+        "email": "sandywarte@gmail.com",
+        "phone": "1112223330",
+        "github_link": "https://github.com/bobbrown",
+        "stopwatch_time": 7,
+        "id": 6
+    },
+    {
+        "name": "radhika",
+        "email": "radhika@gmail.com",
+        "phone": "1234567890",
+        "github_link": "Radhika00",
+        "stopwatch_time": 4,
+        "id": 7
+    },
+    {
+        "name": "Harry Dao",
+        "email": "harrydao@gmail.com",
+        "phone": "9856528750",
+        "github_link": "https://github.com/harry",
+        "stopwatch_time": 11,
+        "id": 8
+    }
+]
