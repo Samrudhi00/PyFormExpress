@@ -25,6 +25,11 @@ try {
     logger(`Error reading db.json: ${err.message}`);
 }
 
+// GET endpoint to check server status
+app.get('/ping', (req: Request, res: Response) => {
+    res.json({ success: true });
+});
+
 // GET endpoint to read all submissions
 app.get('/read_all', (req: Request, res: Response) => {
     res.json(submissions);
